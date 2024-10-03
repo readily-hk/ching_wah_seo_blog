@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "主頁",
+      "url": "/"
+    },
+    {
+      "name": "關於我們",
+      "url": "/about"
+    },
+    {
+      "name": "聯絡我們",
+      "url": "/contact"
+    },
+    {
+      "name": "頁面",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "作者",
+          "url": "/authors"
+        },
+        {
+          "name": "分類",
+          "url": "/categories"
+        },
+        {
+          "name": "標籤",
+          "url": "/tags"
+        },
+        {
+          "name": "元素",
+          "url": "/elements"
+        },
+        {
+          "name": "私隱政策",
+          "url": "/privacy-policy"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "關於我們",
+      "url": "/about"
+    },
+    {
+      "name": "聯絡我們",
+      "url": "/contact"
+    },
+    {
+      "name": "元素",
+      "url": "/elements"
+    },
+    {
+      "name": "私隱政策",
+      "url": "/privacy-policy"
+    }
+  ]
+}
