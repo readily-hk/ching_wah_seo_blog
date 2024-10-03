@@ -4,8 +4,8 @@
     "base_url": "https://ching-wah.com/",
     "base_path": "blog",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/chingwah.png",
+    "favicon": "/blog/images/favicon.png",
+    "logo": "/blog/images/chingwah.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Bookworm Light"
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "blog/images/og-image.png",
     "meta_description": "Bookworm Light Astro Blog Template"
   },
 
