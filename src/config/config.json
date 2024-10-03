@@ -2,7 +2,7 @@
   "site": {
     "title": "菁華工程資訊 | 菁華工程有限公司",
     "base_url": "https://readily-hk.github.io",
-    "base_path": "/ching_wah_seo_blog",
+    "base_path": "/",
     "trailing_slash": false,
     "favicon": "/blog/images/favicon.png",
     "logo": "/blog/images/chingwah.png",
