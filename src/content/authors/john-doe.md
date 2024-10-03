@@ -1,6 +1,6 @@
 ---
 title: John Doe
-image: /blog/images/authors/john-doe.jpg
+image: /ching_wah_seo_blog/images/authors/john-doe.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

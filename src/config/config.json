@@ -4,8 +4,8 @@
     "base_url": "https://readily-hk.github.io",
     "base_path": "/ching_wah_seo_blog/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/chingwah.png",
+    "favicon": "/ching_wah_seo_blog/images/favicon.png",
+    "logo": "/ching_wah_seo_blog/images/chingwah.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Bookworm Light"
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Themefisher",
-    "meta_image": "blog/images/og-image.png",
+    "meta_image": "/ching_wah_seo_blog/images/og-image.png",
     "meta_description": "Bookworm Light Astro Blog Template"
   },
 
