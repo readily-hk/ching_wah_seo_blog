@@ -2,7 +2,7 @@
   "site": {
     "title": "菁華工程資訊 | 菁華工程有限公司",
     "base_url": "https://ching-wah.com/",
-    "base_path": "blog",
+    "base_path": "/blog",
     "trailing_slash": false,
     "favicon": "/blog/images/favicon.png",
     "logo": "/blog/images/chingwah.png",
