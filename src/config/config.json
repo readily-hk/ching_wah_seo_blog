@@ -2,10 +2,10 @@
   "site": {
     "title": "菁華工程資訊 | 菁華工程有限公司",
     "base_url": "https://readily-hk.github.io",
-    "base_path": "/ching_wah_seo_blog/",
+    "base_path": "/blog/",
     "trailing_slash": false,
-    "favicon": "/ching_wah_seo_blog/images/favicon.png",
-    "logo": "/ching_wah_seo_blog/images/chingwah.png",
+    "favicon": "/blog/images/favicon.png",
+    "logo": "/blog/images/chingwah.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Bookworm Light"
