@@ -1,6 +1,6 @@
 ---
 title: Mark Dinn
-image: /ching_wah_seo_blog/images/authors/mark-dinn.jpg
+image: /blog/images/authors/mark-dinn.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
