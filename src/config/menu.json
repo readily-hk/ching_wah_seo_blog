@@ -6,11 +6,11 @@
     },
     {
       "name": "關於我們",
-      "url": "/about"
+      "url": "/blog/about"
     },
     {
       "name": "聯絡我們",
-      "url": "/contact"
+      "url": "/blog/contact"
     },
     {
       "name": "頁面",
@@ -19,23 +19,23 @@
       "children": [
         {
           "name": "作者",
-          "url": "/authors"
+          "url": "/blog/authors"
         },
         {
           "name": "分類",
-          "url": "/categories"
+          "url": "/blog/categories"
         },
         {
           "name": "標籤",
-          "url": "/tags"
+          "url": "/blog/tags"
         },
         {
           "name": "元素",
-          "url": "/elements"
+          "url": "/blog/elements"
         },
         {
           "name": "私隱政策",
-          "url": "/privacy-policy"
+          "url": "/blog/privacy-policy"
         }
       ]
     }
@@ -43,19 +43,19 @@
   "footer": [
     {
       "name": "關於我們",
-      "url": "/about"
+      "url": "/blog/about"
     },
     {
       "name": "聯絡我們",
-      "url": "/contact"
+      "url": "/blog/contact"
     },
     {
       "name": "元素",
-      "url": "/elements"
+      "url": "/blog/elements"
     },
     {
       "name": "私隱政策",
-      "url": "/privacy-policy"
+      "url": "/blog/privacy-policy"
     }
   ]
 }
