@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "菁華工程資訊 | 菁華工程有限公司",
+    "base_url": "https://readily-hk.github.io",
+    "base_path": "/ching_wah_seo_blog/",
+    "trailing_slash": false,
+    "favicon": "/ching_wah_seo_blog/images/favicon.png",
+    "logo": "/ching_wah_seo_blog/images/chingwah.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/ching_wah_seo_blog/images/og-image.png",
+    "meta_description": "Bookworm Light Astro Blog Template"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "info@bookworm.org",
+    "phone": "+800 567 1234"
+  }
+}
